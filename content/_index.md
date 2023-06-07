@@ -6,7 +6,7 @@ title: 🌱 Mon Jardin Virtuel
 
 Ce jardin virtuel est un espace où je cultive mes connaissances, mes réflexions et mes idées. Il offre une promenade à travers différents domaines. Voici un aperçu des thèmes abordés :
 
-## 📚 **[Clean Code](clean_code.md)**
+## 📚 **[Clean Code](/notes/clean_code.md)**
 
 Explorez les principes et les bonnes pratiques pour écrire un code propre, maintenable et de haute qualité.
 

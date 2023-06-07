@@ -8,7 +8,7 @@ Ce fichier contient des notes inspirées du livre "Clean Architecture: A Craftsm
 
 ## Sommaire des Notes
 
-- **[Introduction à l'Architecture Logicielle](introduction.md)** : Un aperçu des principes fondamentaux de l'architecture logicielle et de son importance dans le développement de logiciels de qualité.
+- **[Introduction à l'Architecture Logicielle](/architecture/introduction.md)** : Un aperçu des principes fondamentaux de l'architecture logicielle et de son importance dans le développement de logiciels de qualité.
 
 - **[Principes SOLID](solid.md)** : Découvrez les principes SOLID, un ensemble de principes de conception logicielle qui favorisent la flexibilité, la maintenabilité et la réutilisabilité du code.
 
@@ -34,4 +34,3 @@ Si vous souhaitez approfondir vos connaissances sur l'architecture logicielle et
 - **Article** : "The Clean Architecture" par Robert C. Martin (Uncle Bob) - disponible sur [cleancoder.com](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html).
 
 Bonnes lectures et explorations dans le monde fascinant de l'architecture logicielle !
-Test
