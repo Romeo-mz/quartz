@@ -10,7 +10,7 @@ Ce jardin virtuel est un espace où je cultive mes connaissances, mes réflexion
 
 Explorez les principes et les bonnes pratiques pour écrire un code propre, maintenable et de haute qualité.
 
-## ⚙️ **[Architecture Logicielle](architecture.md)**
+## ⚙️ **[Architecture Logicielle](/notes/architecture.md)**
 
 Découvrez les différentes approches et modèles architecturaux pour concevoir des systèmes logiciels évolutifs et robustes.
 
