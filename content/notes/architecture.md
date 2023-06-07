@@ -34,3 +34,4 @@ Si vous souhaitez approfondir vos connaissances sur l'architecture logicielle et
 - **Article** : "The Clean Architecture" par Robert C. Martin (Uncle Bob) - disponible sur [cleancoder.com](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html).
 
 Bonnes lectures et explorations dans le monde fascinant de l'architecture logicielle !
+Test
