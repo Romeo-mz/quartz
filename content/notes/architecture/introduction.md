@@ -58,4 +58,3 @@ Commencez dès maintenant votre voyage dans le monde passionnant de l'architectu
 > 📚 [Commencer : Les principes de l'architecture logicielle](principes.md)
 ---
 
-N'hésitez pas à personnaliser ce fichier en ajoutant des sections supplémentaires ou en modifiant le contenu pour mieux correspondre à vos propres notes sur l'architecture logicielle.
